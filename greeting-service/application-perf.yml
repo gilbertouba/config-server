@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: greeting-service
+greenting-service:
+  name: "Olá Perf, "  default-value: "Mundo"    
